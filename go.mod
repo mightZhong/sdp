@@ -1,3 +1,3 @@
-module github.com/notedit/sdp
+module github.com/mightZhong/sdp
 
 require github.com/Jeffail/gabs v1.1.1
